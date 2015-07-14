@@ -2,7 +2,6 @@
 layout: post
 title:  "Handling Daylight Saving Time in Java and Spring applications"
 date:   2013-09-09 09:44:32
-categories: jekyll update
 ---
 
 There have been many cases where Daylight Saving Time (DST) changes have lead to issues in software that have not been thought through properly whilst designing, potentially causing cascading problems. Implementing immediate solutions to this are only as complex as the dependent architecture of the software in question. I work on a financial market data platform, which requires time sensitive data processing at a consistent level. Designing solutions requires consideration for differences in timezones, as well as time changes such as DST in regions. I have devised a robust solution for handling DST changes in Java and Spring applications by making use of existing features of both technologies, outlined below.

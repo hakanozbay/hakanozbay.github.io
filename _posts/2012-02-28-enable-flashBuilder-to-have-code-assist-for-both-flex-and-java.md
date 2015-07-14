@@ -2,7 +2,6 @@
 layout: post
 title:  "Enable your FlashBuilder to have code-assist for both Flex and Java in your project"
 date:   2012-02-28 17:24:00
-categories: jekyll update
 ---
 
 In FlashBuilder a user has the ability to create either a Java project or a Flex project, but combining them into 1 project in the workspace for code-assist and building is not straight forward. This blog outlines how you can achieve this. You must have a project that uses both Flex and Java.

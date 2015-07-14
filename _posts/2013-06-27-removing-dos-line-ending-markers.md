@@ -2,7 +2,6 @@
 layout: post
 title:  "Removing DOS line ending markers on files to be used on a UNIX environment"
 date:   2013-06-27 13:47:58
-categories: jekyll update
 ---
 
 If, like me, you're a developer coding on Windows but run your application on a UNIX environment, you will face the problem of continually having the DOS marker "^M" appearing in most of your files. These will be noticed when you view files on UNIX once deployed, which can be both a nuisance and create problems in correct application execution.

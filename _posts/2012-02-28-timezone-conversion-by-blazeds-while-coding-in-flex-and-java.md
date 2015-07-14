@@ -2,7 +2,6 @@
 layout: post
 title:  "Timezone conversion by BlazeDS while coding in Flex and Java leads to date changes"
 date:   2012-02-28 19:29:24
-categories: jekyll update
 ---
 
 When working with Date and Timestamp classes in Java, transfering this data to the Flex UI client through BlazeDS causes an auto correction depending on the timezone you are located in. This "clever" feature in BlazeDS and Flex is actually troublesome, as timezone corrections lead to potentially changing the date of the data that is visible to viewers in different regions of the world.
