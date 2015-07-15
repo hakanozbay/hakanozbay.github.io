@@ -50,17 +50,21 @@ svn propset -R svn:eol-style LF *.java
  
 Right click on your project folder/a subfolder/a file -> Team -> Set Property...
 
-set property menu option.png
+![][setPropertyMenuOption]
  
 Then fill in the following screen like so:
- 
-set property.png
+
+![][setProperty] 
  
 Once this action is performed, proceed to commit the files.
  
 There's also an extra setting you can enable in Eclipse: Specify which operating system line ending format new files that you create in the IDE should adopt. You can do this by selecting the Window option menu -> Preferences -> General -> Workspace and setting the "New text file line delimiter" as UNIX:
  
-unix delimiter.png
+![][unixDelimeter]
  
  
 With this in place now, you will no longer need to cater for the continual overhead of manually converting DOS line endings to the UNIX line ending format for your project files. The UNIX line ending format is compatible to be used in Windows without any issues. This definitely has reduced some headaches for me!
+
+[setPropertyMenuOption]: https://raw.githubusercontent.com/hakanozbay/hakanozbay.github.io/master/_images/set%2Bproperty%2Bmenu%2Boption.png
+[setProperty]: https://raw.githubusercontent.com/hakanozbay/hakanozbay.github.io/master/_images/set%2Bproperty.png
+[unixDelimeter]: https://raw.githubusercontent.com/hakanozbay/hakanozbay.github.io/master/_images/unix%2Bdelimiter.png
