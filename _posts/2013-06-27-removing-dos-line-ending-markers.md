@@ -7,6 +7,7 @@ date:   2013-06-27 13:47:58
 If, like me, you're a developer coding on Windows but run your application on a UNIX environment, you will face the problem of continually having the DOS marker "^M" appearing in most of your files. These will be noticed when you view files on UNIX once deployed, which can be both a nuisance and create problems in correct application execution.
  
 A common solution for this has been to run the dos2unix command manually for each file like so:
+
 > dos2unix filename filename
 
 Albeit this works, it is quite a repetitive, manual and potentially erroneous task. Also, you will need to do this every time when you deploy to the server.
