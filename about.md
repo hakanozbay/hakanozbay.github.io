@@ -4,8 +4,8 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+Hi there! Thanks for visitng my blog!
 
-You can find the source code for the Jekyll new theme at: [github.com/jglovier/jekyll-new](https://github.com/jglovier/jekyll-new)
+I have been working as a Software Engineer since 2010. Throughout this time I have always searched answers online to questions for guides, toubleshooting, practical examples of using new frameworks and implementing paradigms. I always come across blog posts by individuals that show great examples, answer my questions and more! I learn a lot more than what I initially search for, helping me become a better software engineer.  
 
-You can find the source code for Jekyll at [github.com/jekyll/jekyll](https://github.com/jekyll/jekyll)
+I feel that I want to give back to the community aswell by sharing my software engineering experiences. Excatly how other blogs have helped me, I hope the blog posts I write will in turn help someone somewhere.
