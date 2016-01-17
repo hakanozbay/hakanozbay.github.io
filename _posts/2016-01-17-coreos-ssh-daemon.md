@@ -4,7 +4,7 @@ title:  "CoreOS: Issues with customizing the SSH Daemon port number"
 date:   2016-01-17 21:09:30
 ---
 
-While working on a project, I have been using CoreOS to be the main component of the infrstrtuctre. I wanted to set up SSH access on a different port number than the standard 22 (for example 2222), but this turned out to be more difficult than anticipated.
+While working on a project, I have been using CoreOS to be the main component of the infrastructure. I wanted to set up SSH access on a different port number than the standard 22 (for example 2222), but this turned out to be more difficult than anticipated.
 
 After reading through the CoreOS documentation, I found an article on [Customizing the SSH Daemon][], which outlines how to customize the SSH daemon (```sshd```) configuration and unit to listen out for specific port numbers.
 
