@@ -21,6 +21,12 @@ These are software engineering books that I have read and recommend.
 
 #### [<img src="http://akamaicovers.oreilly.com/images/0636920022671/lrg.jpg" width="150" height="180">](http://shop.oreilly.com/product/0636920022671.do) [Just Spring Integration][]
 ---
+<br/>
+
+#### [<img src="https://images-na.ssl-images-amazon.com/images/I/51opYcR6kVL.jpg" width="150" height="180">](https://www.amazon.co.uk/Seven-Languages-Weeks-Programming-Programmers/dp/193435659X) [Seven Languages in Seven Weeks][7 Languages]
+---
+
+
 
 
 
@@ -28,3 +34,4 @@ These are software engineering books that I have read and recommend.
 [Software craftsman]: https://www.amazon.co.uk/Software-Craftsman-Professionalism-Pragmatism-Robert/dp/0134052501/
 [DDD]: https://www.amazon.co.uk/Domain-driven-Design-Tackling-Complexity-Software/dp/0321125215/
 [Just Spring Integration]: http://shop.oreilly.com/product/0636920022671.do
+[7 Languages]: https://www.amazon.co.uk/Seven-Languages-Weeks-Programming-Programmers/dp/193435659X
