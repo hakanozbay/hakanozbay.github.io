@@ -7,31 +7,31 @@ permalink: /books/
 These are software engineering books that I have read and recommend.
 
 
-#### [<img src="https://images-na.ssl-images-amazon.com/images/I/41TINACY3hL.jpg" width="150" height="180">](https://www.amazon.co.uk/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882) [Clean Code: A Handbook of Agile Software Craftsmanship][Clean code]
+#### [<img src="https://images-na.ssl-images-amazon.com/images/I/41TINACY3hL.jpg" width="150" height="180">](http://amzn.to/2iNYNOL) [Clean Code: A Handbook of Agile Software Craftsmanship][Clean code]
 ---
 <br/>
 
-#### [<img src="https://images-na.ssl-images-amazon.com/images/I/51NYjoeEfqL.jpg" width="150" height="180">](https://www.amazon.co.uk/Software-Craftsman-Professionalism-Pragmatism-Robert/dp/0134052501) [The Software Craftsman: Professionalism, Pragmatism, Pride][Software craftsman]
+#### [<img src="https://images-na.ssl-images-amazon.com/images/I/51NYjoeEfqL.jpg" width="150" height="180">](http://amzn.to/2jM2Fzr) [The Software Craftsman: Professionalism, Pragmatism, Pride][Software craftsman]
 ---
 <br/>
 
-#### [<img src="https://images-na.ssl-images-amazon.com/images/I/51sZW87slRL._SX375_BO1,204,203,200_.jpg" width="150" height="180">](https://www.amazon.co.uk/Domain-driven-Design-Tackling-Complexity-Software/dp/0321125215/) [Domain-driven Design: Tackling Complexity in the Heart of Software][DDD]
+#### [<img src="https://images-na.ssl-images-amazon.com/images/I/51sZW87slRL._SX375_BO1,204,203,200_.jpg" width="150" height="180">](http://amzn.to/2iNTbnz) [Domain-driven Design: Tackling Complexity in the Heart of Software][DDD]
 ---
 <br/>
 
-#### [<img src="http://akamaicovers.oreilly.com/images/0636920022671/lrg.jpg" width="150" height="180">](http://shop.oreilly.com/product/0636920022671.do) [Just Spring Integration][]
+#### [<img src="http://akamaicovers.oreilly.com/images/0636920022671/lrg.jpg" width="150" height="180">](http://amzn.to/2iNNQN8) [Just Spring Integration][]
 ---
 <br/>
 
-#### [<img src="https://images-na.ssl-images-amazon.com/images/I/51opYcR6kVL.jpg" width="150" height="180">](https://www.amazon.co.uk/Seven-Languages-Weeks-Programming-Programmers/dp/193435659X) [Seven Languages in Seven Weeks][7 Languages]
+#### [<img src="https://images-na.ssl-images-amazon.com/images/I/51opYcR6kVL.jpg" width="150" height="180">](http://amzn.to/2iNUyCx) [Seven Languages in Seven Weeks][7 Languages]
 ---
 
 
 
 
 
-[Clean code]: https://www.amazon.co.uk/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882 
-[Software craftsman]: https://www.amazon.co.uk/Software-Craftsman-Professionalism-Pragmatism-Robert/dp/0134052501/
-[DDD]: https://www.amazon.co.uk/Domain-driven-Design-Tackling-Complexity-Software/dp/0321125215/
-[Just Spring Integration]: http://shop.oreilly.com/product/0636920022671.do
-[7 Languages]: https://www.amazon.co.uk/Seven-Languages-Weeks-Programming-Programmers/dp/193435659X
+[Clean code]: http://amzn.to/2iNYNOL
+[Software craftsman]: http://amzn.to/2jM2Fzr
+[DDD]: http://amzn.to/2iNTbnz
+[Just Spring Integration]: http://amzn.to/2iNNQN8
+[7 Languages]: http://amzn.to/2iNUyCx
