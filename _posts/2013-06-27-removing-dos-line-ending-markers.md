@@ -33,7 +33,7 @@ Once you save the file, the declared file extensions will have the 'LF' line end
  
 One caveat of this solution however, is that this property is applied for new files that will be committed for the first time. For existing files already checked in, you must execute this property on the files locally and then commit them. You can do this in 2 different ways:
  
-###On the command line:
+### On the command line:
  
 Navigate to your project directory and at the top level, execute the following svn command:
 
@@ -47,7 +47,7 @@ This setting will be applied to all files under the project. If you want to do i
 svn propset -R svn:eol-style LF *.java
 `
  
-###In the IDE (Eclipse + Subclipse):
+### In the IDE (Eclipse + Subclipse):
  
 Right click on your project folder/a subfolder/a file -> Team -> Set Property...
 
