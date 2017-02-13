@@ -66,6 +66,6 @@ There's also an extra setting you can enable in Eclipse: Specify which operating
  
 With this in place now, you will no longer need to cater for the continual overhead of manually converting DOS line endings to the UNIX line ending format for your project files. The UNIX line ending format is compatible to be used in Windows without any issues. This definitely has reduced some headaches for me!
 
-[setPropertyMenuOption]: https://raw.githubusercontent.com/hakanozbay/hakanozbay.github.io/master/images/set%2Bproperty%2Bmenu%2Boption.png
-[setProperty]: https://raw.githubusercontent.com/hakanozbay/hakanozbay.github.io/master/images/set%2Bproperty.png
-[unixDelimeter]: https://raw.githubusercontent.com/hakanozbay/hakanozbay.github.io/master/images/unix%2Bdelimiter.png
+[setPropertyMenuOption]: /images/set+property+menu+option.png
+[setProperty]: /images/set+property.png
+[unixDelimeter]: /images/unix+delimiter.png
