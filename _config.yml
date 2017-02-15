@@ -4,7 +4,7 @@ title: Average Talk by Average Developer
 description: > # this means to ignore newlines until "baseurl:"
   Another Software Engineering blog. Sharing my experiences to help others. 
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://hakanozbay.github.io" # the base hostname & protocol for your site
+url: "https://hakanozbay.github.io" # the base hostname & protocol for your site
 github_username:  hakanozbay
 linkedin_username: hakanozbay
 stackoverflow_username: hakanozbay
