@@ -4,7 +4,7 @@ title: Books
 permalink: /books/
 ---
 
-These are software engineering books that I have read and recommend.
+These are software engineering and computer science books that I have read and recommend.
 
 
 #### [<img src="https://images-na.ssl-images-amazon.com/images/I/41TINACY3hL.jpg" width="150" height="180">](http://amzn.to/2iNYNOL) [Clean Code: A Handbook of Agile Software Craftsmanship][Clean code]
@@ -26,6 +26,10 @@ These are software engineering books that I have read and recommend.
 #### [<img src="https://images-na.ssl-images-amazon.com/images/I/51opYcR6kVL.jpg" width="150" height="180">](http://amzn.to/2iNUyCx) [Seven Languages in Seven Weeks][7 Languages]
 ---
 
+<br/>
+
+#### [<img src="https://images-na.ssl-images-amazon.com/images/I/51moTv5jmNL._SX349_BO1,204,203,200_.jpg" width="150" height="180">](http://amzn.to/2mieJKc) [The New Turing Omnibus][NTO]
+---
 
 
 
@@ -35,3 +39,4 @@ These are software engineering books that I have read and recommend.
 [DDD]: http://amzn.to/2iNTbnz
 [Just Spring Integration]: http://amzn.to/2iNNQN8
 [7 Languages]: http://amzn.to/2iNUyCx
+[NTO]: http://amzn.to/2mieJKc
