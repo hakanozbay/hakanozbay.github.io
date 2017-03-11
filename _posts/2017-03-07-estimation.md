@@ -38,13 +38,57 @@ A common illusion is to assume that the time to complete a project can be perfec
 
 For example if we have 12 man months of work to complete, the assumption is that if there are 2 people it would take 6 months, with 3 people 4 months, with 4 people 3 months etc... The misconception here is that each person has an output efficiency rate of 100%. This assumes each person has perfect knowlegde of the domain; perfect knowledge of the skillset required; has only independent work and nothing overlapping with the other resources; does not require assistance, collaboration or consultation with other resources; there are no learning curves therefore anyone can join having immediate and full impact. This is obviously theoretical and not realistic at all.
 
-However many resources we have, we must estbalish the overall ***effective resource rate***. Having 3 resources does not mean our effective resource rate is 3.0, it would be less. For example the effective resource rate could be 2.0, whereby each resurce utilizes 0.33 of their time for collaborating and consulting with each other or learning the required skills and the domain. Everyone's individual resource rate would then be 0.67, multiplied by 3 resources would result in the effective resource rate of 2.0. Therefore 12 man months of work with 3 people working at an effective resource rate of 2.0 would result in a completion time of 6 months. 
+However many resources we have, we must estbalish the overall **effective resource rate**.  
+Having 3 resources does not mean our effective resource rate is 3.0, it would be less.  
+For example the effective resource rate could be 2.0, whereby each resurce utilizes 0.33 of their time for collaborating and consulting with each other or learning the required skills and the domain. Everyone's individual resource rate would then be 0.67, multiplied by 3 resources would result in the effective resource rate of 2.0.  
+Therefore 12 man months of work with 3 people working at an effective resource rate of 2.0 would result in a completion time of 6 months. 
 
 When establishing the effective resource rate, you will need to consider the environmental and circumstantial factors mentioned above which are natural deviations for any resource from achiving full output efficiency. 
 
 The overall effective resource rate is also not proportional to the number of resources. There is a peak effective resource rate value, which essentially represents the optimum number of resources. Adding more resources will cause the effective resource rate value to decrease leading to dimishing returns and making the completion time longer. Infinite resources do not infinitely improve the effective resource rate. You should establish what the optimum effective resource rate would be and therefore know what the optimum number of resources would be to achieve that rate.
 
 
-## Your estimates are theoretical ##
+## Add delays into your estimate ##
+
+Estimates usually focus on delivering under the assumption of perfect conditions. Rarely does the environment or circumstances we work under allow for forecasts to turn out as estimated. Things go wrong or our attention can get diverted onto other spontaneous tasks or issues outside of the project we are working on, which were not obvious to begin with. These interferences ultimately nullify your orignal estimate requiring you to refine and revise it. 
+
+Most initial estimates turn out to be *theoretical minimums* for completion. How can we predict the unknown and factor this into our estimates?  
+
+Defining the 'unknown' is the first step, which is what the delay is. I have 3 categories for this: **Contingency**, **Distraction** and **Absence**.
+
+**Contingency** is additional time due to unforseen implementation complexities or external dependencies that slow down the progress of the project. This is time that is spent while working on the project itself.
+
+**Distraction** is additional time due to changing priorities that interfere with working on the project. Things such as production issues or spontaneous requirements that divert attention and prohbit progress of the project. This is time that is not spent working on the project which is a time loss.
+
+**Absence** is additional time due to holidays (public and annual leave entitlement) and other types of non presence (for example sick leave). This is time that is not spent working on the project which is a time loss.
+
+As most estimates are theoretical minimums they do not cater for any of these 3 categories. It assumes all tasks are well defined, with no interference and everyone works without any absences. This is obviously not the reality and is overlooked often.
+
+#### How much time should be assigned to these categories? ####
+
+A time range of minimum to maximum should be defined for each category. The values of these should be decided by your intuition and experience. Some are straight forward as for example public holdays can be calculated and annual leave ranges are determiend by your company's policy. 
+
+#### Are all these categories necessary? #### 
+
+The bigger the project, the longer the project and the more resources involved then the more relevant and necessary these categories are. You may not need all of them if the project is relatively small in delivery, timeline and resourcing.
+
+#### How can all these categories be combined to determine the delay time? #### 
+
+I have devised formulas for this, which 
+
+| Abbreviation | Definition |
+|:------------:|:----------:|
+|PH|Public Holiday|
+|AL<sub>m</sub>|Minimum Annual Leave|
+|AL<sub>mx</sub>|Maximum Annual Leave|
+|C<sub>m</sub>|Minimum Contingency|
+|C<sub>mx</sub>|Maximum Contingency|
+|D<sub>m</sub>|Minimum Distraction|
+|D<sub>mx</sub>|Maximum Distracion|  
+{:.mbtablestyle}
+
+
+
+
 
 [talk on estimation]: https://skillsmatter.com/skillscasts/8557-estimation-what-when-why-by-robert-martin
