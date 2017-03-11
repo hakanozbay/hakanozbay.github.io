@@ -88,6 +88,13 @@ I have devised formulas for this, which
 {:.mbtablestyle}
 
 
+`Practical Minimum = Theoretical Minimum + PH + ALm`
+
+`Realistic Minimum = Practical Minimum + Cm`
+
+`Most Probable Minimum = Realistic Minimum + Dm`
+
+`Most Probable Maximum = Most Probable Minimum + Cmx`
 
 
 
