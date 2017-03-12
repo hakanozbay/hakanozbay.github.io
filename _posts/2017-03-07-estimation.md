@@ -74,7 +74,9 @@ The bigger the project, the longer the project and the more resources involved t
 
 #### How can all these categories be combined to determine the delay time? #### 
 
-I have devised formulas for this, which 
+I have devised formulas for this. 
+
+The table below clarifies the components of the formulas: 
 
 | Abbreviation | Definition |
 |:------------:|:----------:|
@@ -84,18 +86,66 @@ I have devised formulas for this, which
 |C<sub>m</sub>|Minimum Contingency|
 |C<sub>mx</sub>|Maximum Contingency|
 |D<sub>m</sub>|Minimum Distraction|
-|D<sub>mx</sub>|Maximum Distracion|  
-{:.mbtablestyle}
+|D<sub>mx</sub>|Maximum Distraction|  
+{:.mbtablestyle}  
+<br/>
 
+Assuming we have defined an estimate for completion of a project, we can label this as the **Theoretical Minimum**. The first formula is to establish what the **Practical Minimum** is by adding onto the Theoretical Minimum:
 
 `Practical Minimum = Theoretical Minimum + PH + ALm`
 
+Adding public holidays and minimum annual leave is essential as resources will not be working on these days. The amount to include will depend on the timeframe for your project. You can calculate the number of public holidays in this time span and verify the minimum time all your resources will be absent for. It is unlikely for any project to finish before this point, hence the term practical.
+
+The next formula is adding onto the Practical Minimum to establish the **Realistic Minimum**:
+
 `Realistic Minimum = Practical Minimum + Cm`
+
+Most projects need contingency time. Adding the minimum contingency time onto publich holidays and minimum annual leave provides the first actual target for completion, which is why it is the realistic minimum time for completion.
+
+The next formula is adding onto the Realistic Minimum to establish the **Most Probable Minimum**:
 
 `Most Probable Minimum = Realistic Minimum + Dm`
 
-`Most Probable Maximum = Most Probable Minimum + Cmx`
+This is optional. If your resources do not have multiple responsibilities and can dedicate their entire time onto the project then there will be no distractions, hence D<sub>m</sub> will be 0. Otherwise this value should be added, resulting in the consideration of all minimum category values, which is when the most probable time for completion starts.
 
+The most probable time for completion ends at the **Most Probable Maximum**:
+
+`Most Probable Maximum = Theoretical Minimum + PH + ALmx + Cmx`
+
+All projects should end by their maximum contingency time. The upper boundary of this is including maximum annual leave aswell as resources may potentially use up all their entitlement in the project period.  
+The assumption I have made is that D<sub>m</sub> is less than C<sub>mx</sub>, which is where the margin in between both is virtually the range between the Most Probable Minimum and Most Probable Maximum (after subtracting the difference between AL<sub>mx</sub> and AL<sub>m</sub>).
+
+
+You can assign numbers to each component and put them into the relevant formulas to calculate each of them. I demonstrate this with an example below.
+
+#### Example ####
+
+| Component | Value (Months) |
+|:------------:|:--------------:|
+|Theoretical Minimum|0|
+|PH|0.5|
+|AL<sub>m</sub>|0.75|
+|AL<sub>mx</sub>|1.25|
+|C<sub>m</sub>|1.0|
+|C<sub>mx</sub>|2.0|
+|D<sub>m</sub>|1.0|
+|D<sub>mx</sub>|2.0|  
+{:.mbtablestyle}  
+<br/>
+
+![][estimationGraph]
+
+{% highlight xml %}
+Practical Minimum = Theoretical Minimum + PH + ALm = 0 + 0.5 + 0.75 = 1.25
+Realistic Minimum = Practical Minimum + Cm = 1.25 + 1.0 = 2.25
+Most Probable Minimum = Realistic Minimum + Dm = 2.25 + 1.0 = 3.25
+Most Probable Maximum = Theoretical Minimum + PH + ALmx + Cmx = 0 + 0.5 + 1.25 + 2 = 3.75
+{% endhighlight %}
+
+Based on all the numbers put into the formulas, the most probable time the project will finish is between 3.25 to 3.75 months after the theoretical minimum.
+
+## Conclusion ##
 
 
 [talk on estimation]: https://skillsmatter.com/skillscasts/8557-estimation-what-when-why-by-robert-martin
+[estimationGraph]: /images/Estimation-normal-distribution.png
