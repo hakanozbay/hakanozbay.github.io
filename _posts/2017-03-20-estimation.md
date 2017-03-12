@@ -1,8 +1,8 @@
 ---
 layout: post
 title:  "Estimation: Making realistic estimates"
-date:   2017-03-07 14:41:09
-published:	false
+date:   2017-03-12 22:20:00
+published:	true
 ---
 
 Estimates for completion and delivery of software components or entire projects tend to fail generally. Estimates are continually revised and refined over time, infinitely extending the completion date until it is done. Why is this and what can be done about it?
@@ -146,6 +146,7 @@ Based on all the numbers put into the formulas, the most probable time the proje
 
 ## Conclusion ##
 
+Making realistic estimates must consider several criterias for the work involved, understand resourcing and incorporate delays. All of this should be formalised and calculated to achieve estimates that are informative, accurate and precise.
 
 [talk on estimation]: https://skillsmatter.com/skillscasts/8557-estimation-what-when-why-by-robert-martin
 [estimationGraph]: /images/Estimation-normal-distribution.png
