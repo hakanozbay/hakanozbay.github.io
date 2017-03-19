@@ -2,7 +2,6 @@
 layout: post
 title:  "Estimation: Making realistic estimates"
 date:   2017-03-12 22:20:00
-published:	true
 ---
 
 Estimates for completion and delivery of software components or entire projects tend to fail generally. Estimates are continually revised and refined over time, infinitely extending the completion date until it is done. Why is this and what can be done about it?
