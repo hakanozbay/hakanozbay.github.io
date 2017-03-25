@@ -10,4 +10,4 @@ linkedin_username: hakanozbay
 stackoverflow_username: hakanozbay
 stackoverflow_usernumber: 551416
 # Build settings
-#markdown: kramdown
+markdown: kramdown

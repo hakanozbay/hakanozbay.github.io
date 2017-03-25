@@ -12,9 +12,9 @@ If this is the case with an external resource like a database, then it should al
 
 Test classes denote Spring usage with the following annotations above the class declaration:
 
-`@RunWith(SpringJUnit4ClassRunner.class)`  
-`@ContextConfiguration("classpath:META-INF/spring/spring-test-context.xml")`
 {% highlight java %}
+@RunWith(SpringJUnit4ClassRunner.class)
+@ContextConfiguration("classpath:META-INF/spring/spring-test-context.xml")
 public class IntegrationTest 
 {
 ...
@@ -25,7 +25,9 @@ This leads to the context file being loaded and used for all tests in the `Integ
 
 These context modifications that cause a change in state is known as making the context ***dirty***. To ensure the same initial state exists for each test, the solution is to reload the context for *each test*. For this purpose, Spring has an annotation type called [DirtiesContext][]. There are several ways to use this annotation. I usually declare the annotation at class level above the class declaration along with the other annotations. The specific annotation setting I use is: 
 
-```@DirtiesContext(classMode=ClassMode.AFTER_EACH_TEST_METHOD)```
+{% highlight java %}
+@DirtiesContext(classMode=ClassMode.AFTER_EACH_TEST_METHOD)
+{% endhighlight %}
 
 The [AFTER_EACH_TEST_METHOD][afterEachTestMethod] mode is defined as:
 
@@ -33,6 +35,18 @@ The [AFTER_EACH_TEST_METHOD][afterEachTestMethod] mode is defined as:
 The associated ApplicationContext will be marked as dirty after each test method in the class.
 
 This means that when the context is marked as dirty after the test, **the current context will close and a new context instance will be loaded before the execution of the next test**. This is essentially a context refresh, achieving the same initial state for each test execution, allowing isolation. State changes in one test will no longer be carried forward to the next and test outcomes will be accurate, consistent and repeatable. 
+
+My class annotations now look like so:
+
+{% highlight java %}
+@RunWith(SpringJUnit4ClassRunner.class)
+@ContextConfiguration("classpath:META-INF/spring/spring-test-context.xml")
+@DirtiesContext(classMode=ClassMode.AFTER_EACH_TEST_METHOD)
+public class IntegrationTest 
+{
+...
+}
+{% endhighlight %}
 
 As good practice and on principle, this annotation should be added to all Spring test classes. The consequences are that the overall test time will be longer, but I feel this is acceptable in order to ensure the overall correctness of your software.
 
