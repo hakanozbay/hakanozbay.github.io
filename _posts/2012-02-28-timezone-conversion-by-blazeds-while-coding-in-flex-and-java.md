@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Timezone conversion by BlazeDS while coding in Flex and Java leads to date changes"
+title:  "Flex & Java: Timezone conversion by BlazeDS leads to date changes"
 date:   2012-02-28 19:29:24
 ---
 

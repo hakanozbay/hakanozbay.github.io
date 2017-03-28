@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Handling Daylight Saving Time in Java and Spring applications"
+title:  "Java & Spring: Handling Daylight Saving Time"
 date:   2013-09-09 09:44:32
 ---
 

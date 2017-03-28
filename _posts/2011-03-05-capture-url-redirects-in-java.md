@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Capture URL redirects in Java"
+title:  "Java: Capture URL redirects"
 date:   2011-03-05 15:17:52
 ---
 

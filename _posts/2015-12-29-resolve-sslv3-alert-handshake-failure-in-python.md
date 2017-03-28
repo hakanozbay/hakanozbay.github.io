@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Resolve \"SSLV3_ALERT_HANDSHAKE_FAILURE\" error in Python 3"
+title:  "Python 3: Resolve \"SSLV3_ALERT_HANDSHAKE_FAILURE\" error"
 date:   2015-12-29 14:42:00
 ---
 
