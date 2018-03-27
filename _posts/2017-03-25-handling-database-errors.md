@@ -120,7 +120,7 @@ The `handleBadGrammarException()` , `handleDuplicateException()` , `handleDeadlo
 
 Writing error handling code for database interaction errors can be straight forward and written cleanly when leveraging existing frameworks effectively.
 
-I have written an example demonstration of this implementation in my [Database error handling][]{:target="_blank"} code repository.
+_I have written an example demonstration of this implementation in my [Database error handling][]{:target="_blank"} code repository._
 
 
 [SQLErrorCodes]: http://docs.spring.io/spring/docs/current/javadoc-api/org/springframework/jdbc/support/SQLErrorCodes.html
