@@ -6,7 +6,7 @@ date:   2017-03-12 22:20:00
 
 Estimates for completion and delivery of software components or entire projects tend to fail generally. Estimates are continually revised and refined over time, infinitely extending the completion date until it is done. Why is this and what can be done about it?
 
-The [talk on estimation][]{:target="_blank"} by Robert Martin and chapter 2 of [The Mythical Man-Month][]{:target="_blank"} provides good insight, direction and tactics for improving estimates. These resources along with my own personal experiences at work has helped me formalise my own approach for estimation.
+The [talk on estimation][]{:target="_blank"} by Robert Martin and chapters 2 and 8 of [The Mythical Man-Month][]{:target="_blank"} provides good insight, direction and tactics for improving estimates. These resources along with my own personal experiences at work has helped me formalise my own approach for estimation.
 
 ## What are we estimating? ##
 
