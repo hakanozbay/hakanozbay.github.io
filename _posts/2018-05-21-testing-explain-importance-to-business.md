@@ -20,7 +20,7 @@ This ideology behind ‘cutting corners’ for testing to save costs or meeting 
 If you do not do sufficient testing in order to save $ x or to meet a release deadline, your operational, financial and reputational risks can be potentially realized. If these are realized, what will happen? Aside from the software crashing, It will create rippling effects throughout:
 
  
-- Potential S1 outage – operational risk
+- Potential application outage – operational risk
 - Dependent consumers application will not be able to continue their processing – cascading operational risk
 - Clients won’t be able to utilize our services – financial risk
 - Client’s trust will diminish – reputational and financial risk
