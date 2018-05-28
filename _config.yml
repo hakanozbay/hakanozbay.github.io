@@ -11,3 +11,4 @@ stackoverflow_username: hakanozbay
 stackoverflow_usernumber: 551416
 # Build settings
 markdown: kramdown
+future: true
