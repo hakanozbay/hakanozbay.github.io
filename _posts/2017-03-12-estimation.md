@@ -33,7 +33,7 @@ Most importantly, this applies to you. You need to know yourself. The better you
 
 ## Time and resources are not proportional ##
 
-A common illusion is to assume that the time to complete a project can be perfectly divisible by the number of people working on it i.e. Time is driectly proportional to resources. This is not true.  
+A common illusion is to assume that the time to complete a project can be perfectly divisible by the number of people working on it i.e. Time is directly proportional to resources. This is not true.  
 
 For example if we have 12 man months of work to complete, the assumption is that if there are 2 people it would take 6 months, with 3 people 4 months, with 4 people 3 months etc... The misconception here is that each person has an output efficiency rate of 100%. This assumes each person has perfect knowlegde of the domain; perfect knowledge of the skillset required; has only independent work and nothing overlapping with the other resources; does not require assistance, collaboration or consultation with other resources; there are no learning curves therefore anyone can join having immediate and full impact. This is obviously theoretical and not realistic at all.
 
