@@ -4,7 +4,7 @@ title:  "Testing: Explaining its importance to non technical people"
 date:   2018-05-28 21:52:03
 ---
 
-Do you ever find yourself trying to explain testing, its significance and consequences for not doing it properly to non technical people such as users of your software or your management team? Do they only care about meeting the deadline date? Are you unable to express this effectively for them to understand? Are you then left with broken software once released to production? I have experienced all of these. How do you get through to them? This post is to convery what testing involves, the consequences and impact for overlooking this. Direct these people to this post to help you!
+Do you ever find yourself trying to explain testing, its significance and consequences for not doing it properly to non technical people such as users of your software or your management team? Do they only care about meeting the deadline date? Are you unable to express this effectively for them to understand? Are you then left with broken software once released to production? I have experienced all of these. How do you get through to them? This post is to convey what testing involves, the consequences and impact for overlooking this. Direct these people to this post to help you!
 
 There is a trade off in software development between **building the right system** and **building the system right.** Most teams focus on the former where it’s all about delivering features of software for users. The latter is about addressing the vulnerabilities of your system, such as performance, error handling, security flaws, scalability and efficiency of resource consumption. Unfortunately, lack of focus on this side of development leads to many problems in systems.
 
