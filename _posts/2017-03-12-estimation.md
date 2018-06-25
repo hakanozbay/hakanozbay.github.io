@@ -99,7 +99,7 @@ The next formula is adding onto the Practical Minimum to establish the **Realist
 
 `Realistic Minimum = Practical Minimum + Cm`
 
-Most projects need contingency time. Adding the minimum contingency time onto publich holidays and minimum annual leave provides the first actual target for completion, which is why it is the realistic minimum time for completion.
+Most projects need contingency time. Adding the minimum contingency time onto public holidays and minimum annual leave provides the first actual target for completion, which is why it is the realistic minimum time for completion.
 
 The next formula is adding onto the Realistic Minimum to establish the **Most Probable Minimum**:
 
