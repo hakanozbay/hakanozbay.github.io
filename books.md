@@ -13,8 +13,13 @@ These are software engineering and computer science books that I have read and r
 ---
 <br/>
 
+#### [<img src="https://images-na.ssl-images-amazon.com/images/I/41BjtnvIUQL._SX382_BO1,204,203,200_.jpg" width="150" height="180">](http://amzn.to/2iNTbnz){:target="_blank"} [Clean Architecture: A Craftsman's Guide to Software Structure and Design][Clean Architecture]{:target="_blank"}
+---
+<br/>
+
 #### [<img src="https://images-na.ssl-images-amazon.com/images/I/51sZW87slRL._SX375_BO1,204,203,200_.jpg" width="150" height="180">](http://amzn.to/2iNTbnz){:target="_blank"} [Domain-driven Design: Tackling Complexity in the Heart of Software][DDD]{:target="_blank"}
 <br/>
+
 
 # **Software Engineering: Industry experiences**
 <br/>
@@ -43,6 +48,7 @@ These are software engineering and computer science books that I have read and r
 
 
 [Clean code]: http://amzn.to/2iNYNOL
+[Clean Architecture]: https://amzn.to/2MNzquD
 [Software craftsman]: http://amzn.to/2jM2Fzr
 [DDD]: http://amzn.to/2iNTbnz
 [Just Spring Integration]: http://amzn.to/2iNNQN8
