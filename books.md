@@ -42,7 +42,7 @@ These are software engineering and computer science books that I have read and r
 ---
 <br/>
 
-#### [<img src="https://images-na.ssl-images-amazon.com/images/I/41Z9Anr9MVL.jpg" width="150" height="180">](https://amzn.to/2U6zB7K){:target="_blank"} [Adobe Flex 4: Training from the Source, Volume 1][Adobe Flex]{:target="_blank"}
+#### [<img src="https://images-na.ssl-images-amazon.com/images/I/41Z9Anr9MVL.jpg" width="150" height="180">](http://amzn.to/2U6zB7K){:target="_blank"} [Adobe Flex 4: Training from the Source, Volume 1][Adobe Flex]{:target="_blank"}
 <br/>
 
 
@@ -58,6 +58,6 @@ These are software engineering and computer science books that I have read and r
 [DDD]: http://amzn.to/2iNTbnz
 [Just Spring Integration]: http://amzn.to/2iNNQN8
 [7 Languages]: http://amzn.to/2iNUyCx
-[Adobe Flex]: https://amzn.to/2U6zB7K
+[Adobe Flex]: http://amzn.to/2U6zB7K
 [NTO]: http://amzn.to/2mieJKc
 [MMM]: http://amzn.to/2E8RITs
