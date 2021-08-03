@@ -34,7 +34,7 @@ These are software engineering and computer science books that I have read and r
 # **Software Engineering: Programming languages and Frameworks**
 <br/>
 
-#### [<img src="http://akamaicovers.oreilly.com/images/0636920022671/lrg.jpg" width="150" height="180">](http://amzn.to/2iNNQN8){:target="_blank"} [Just Spring Integration][]{:target="_blank"}
+#### [<img src="https://images-na.ssl-images-amazon.com/images/I/51UTMM4z4wL._SX376_BO1,204,203,200_.jpg" width="150" height="180">](http://amzn.to/2iNNQN8){:target="_blank"} [Just Spring Integration][]{:target="_blank"}
 ---
 <br/>
 
